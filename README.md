@@ -3,4 +3,4 @@
 <p>**Data Scientist**
 
 - 🔭 I’m currently working on Data Science
-- 👯 I’m looking to collaborate on Data Science projects.<p>
+- 👯 I’m looking to collaborate on Data Science projects.<p/>
