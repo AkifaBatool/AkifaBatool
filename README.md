@@ -1,4 +1,4 @@
-## Hi👋 I'm Akifa Batool
+<h2 align=center> Hi👋 I'm Akifa Batool<h2/>
 
 <!--
 **AkifaBatool/AkifaBatool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
