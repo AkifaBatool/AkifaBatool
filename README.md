@@ -2,5 +2,6 @@
 <h3 align=center>I am a passionate data scientist who is zealeous about turing data into meaningful insights.</h3>
 
 - 🔭 I’m currently working on **Data Science**
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Deep learning** and **Mern Stack**
 - 👯 I’m looking to collaborate on Data Science projects.
+- 💬 Ask me about **Data**
