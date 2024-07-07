@@ -17,9 +17,9 @@ In addition to my focus on data science, I'm also learning the MERN stack to bui
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![upwork-ar21](https://www.upwork.com/freelancers/~013af899623cf80154?mp_source=share)
-  <!--<a href="https://linkedin.com/in/akifabatool" target="blank"></a>-->
-<!--<img align="center" src= alt="akifabatool" height="30" width="40" />-->
+<!--[upwork-ar21](https://www.upwork.com/freelancers/~013af899623cf80154?mp_source=share)-->
+<a href="https://linkedin.com/in/akifabatool" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" alt="akifabatool"/></a>
+
 </p>
 
 upwork-ar21
