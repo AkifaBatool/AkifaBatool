@@ -12,5 +12,5 @@ In addition to my focus on data science, I'm also learning the MERN stack to bui
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/akifabatool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifabatool" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/akifabatool/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifabatool" height="30" width="40" /></a>
 </p>
