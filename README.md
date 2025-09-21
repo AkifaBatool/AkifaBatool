@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Akifa Batool</h2>
-<h3 align="center">AI Automation Expert | Web Developer | Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Akifa Batool</h1>
+<h2 align="center">AI Automation Expert | Web Developer | Data Scientist</h2>
 
 I am a passionate problem-solver who thrives at the intersection of **automation, web development, and data science**.  
 My journey started with a strong academic background in **Mathematics and Cryptography**, which sharpened my logical and analytical thinking. Over time, I expanded my expertise into **Data Science and AI**, where I discovered how powerful technology can be in turning raw data into intelligent solutions.  
